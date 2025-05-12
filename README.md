@@ -51,6 +51,14 @@
 # isi table 
 ![image](https://github.com/user-attachments/assets/9c8ce09b-be8a-45d4-8a19-93e8da887e9e)
 ![image](https://github.com/user-attachments/assets/2edf6214-e54f-42ea-8558-f0abe3392e73)
+![image](https://github.com/user-attachments/assets/a433f9b9-03fe-45bc-a5fd-0bf41541b663)
+
+
+
+# tambahkan admin_index.php
+# dan buat admin_footer.php , admin_header.php di dalam direktori template
+![image](https://github.com/user-attachments/assets/2cb95051-2872-4ca5-91c1-de10e0cf7433)
+
 
 
 

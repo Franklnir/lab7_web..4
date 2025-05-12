@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# PRAKTIKUM !
 ﻿# lab7_web..4
 # php spark
 # php spark routes
@@ -12,8 +12,4 @@
 
 
 
- 
 
-
- 
->>>>>>> 69ed5078d3061e1635e6a1fee0e843c508c17278

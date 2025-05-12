@@ -65,6 +65,10 @@
 # tambahkan edit
 ![image](https://github.com/user-attachments/assets/144082ec-4827-483f-a1f8-ee53be1a674a)
 
+# tambahkan delete 
+![image](https://github.com/user-attachments/assets/c13c7d3b-ea77-4eae-b5e0-4fd066c38dda)
+![image](https://github.com/user-attachments/assets/c61a630b-3f78-44f8-9c5f-eece045783f4)
+
 
 
 

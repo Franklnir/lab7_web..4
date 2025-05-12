@@ -59,6 +59,10 @@
 # dan buat admin_footer.php , admin_header.php di dalam direktori template
 ![image](https://github.com/user-attachments/assets/2cb95051-2872-4ca5-91c1-de10e0cf7433)
 
+# tambahkan add
+![image](https://github.com/user-attachments/assets/d5d08dda-2840-4df4-9a3b-80f588958173)
+
+
 
 
 

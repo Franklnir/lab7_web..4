@@ -1,4 +1,4 @@
-### PRAKTIKUM 1
+# PRAKTIKUM 1
 ﻿# lab7_web..4
 # php spark
 # php spark routes
@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/985acfc3-1add-475a-9768-57a5b2317d58)
 
 
-### PRAKTIKUM 2
+# PRAKTIKUM 2
 # buatkan database dan konfigurasi
 ![image](https://github.com/user-attachments/assets/14984b51-ed46-4943-9923-b52962216043)
 
@@ -71,7 +71,7 @@
 
 
 
-### praktikum 3
+# PRAKTIKUM 3
 
 # sebelumnya tambahkan, di dalam table sebelumnya yang kita buat
 ![image](https://github.com/user-attachments/assets/08f58d73-2a46-4ca7-8e48-572822ee8d15)

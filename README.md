@@ -40,6 +40,21 @@
 ![image](https://github.com/user-attachments/assets/70393c1c-13f8-4c00-b7a3-9c5e56663f80)
 
 
+# buat detail.php di dalam direktori yang sama
+              <?= $this->include('template/header'); ?>
+              <article class="entry">
+                  <h2><?= $artikel['judul']; ?></h2>
+                  <img src="<?= base_url('/gambar/' . $artikel['gambar']); ?>" alt="<?= $artikel['judul']; ?>">
+                  <p><?= $artikel['isi']; ?></p>
+              </article>
+              <?= $this->include('template/footer'); ?>
+# isi table 
+![image](https://github.com/user-attachments/assets/9c8ce09b-be8a-45d4-8a19-93e8da887e9e)
+![image](https://github.com/user-attachments/assets/2edf6214-e54f-42ea-8558-f0abe3392e73)
+
+
+
+
 
 
 
